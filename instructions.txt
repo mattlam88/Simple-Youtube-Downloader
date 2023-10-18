@@ -1,0 +1,7 @@
+Make sure to have at least Python version 3.8+
+
+First run in terminal:
+
+    pip install -r requirements.txt
+
+Make sure to change url and itag for desired results
